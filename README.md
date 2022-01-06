@@ -1,6 +1,6 @@
 ## Hi there, I'm Yufan Song 👋 I'm a Sofware Developer!
 
-* 🚀 I'm interested in BackEnd Dev, AI, and anything CS. Recently, I also find Hedge Fund is interesting.
+* ❄️ I will do SDE internship in Snowflake in 2022 summer. 
 * 🏫 I get my bachelor degree from Computer Science Department, TongJi University.
 * 🔬 I have done research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year.
 * 🎶 I worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
@@ -9,7 +9,7 @@
 
 ### Languages:
 
-Golang, Python, C/C++, C#, Shell, Verilog
+Golang, C/C++, Python
 
 ### Technologies:
 
