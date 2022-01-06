@@ -16,12 +16,13 @@ Golang, C/C++, Python
 * **BackEnd Technologies**: MySQL, Redis, ElasticSearch, HDFS, NGINX, AWS, Git
 * **AI Technologies**: Multi-Modality, Data Mining, Cluster
 
+### Projects
+
+![Yufan's github stats](https://github-readme-stats.vercel.app/api?username=yufansong&count_private=true&show_icons=true)
+
+
 ### Find me Online
 
 <a href="https://www.linkedin.com/in/yufansong/">
   <img align="left" alt="yufansong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-
-### Projects
-
-![Lyuyang's github stats](https://github-readme-stats.vercel.app/api?username=yufansong&count_private=true&show_icons=true)
