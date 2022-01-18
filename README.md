@@ -1,4 +1,4 @@
-## Hi there, I'm Yufan Song 👋 I'm a Sofware Developer!
+## Hi there, I'm Yufan Song 👋 I'm a Software Developer!
 
 * ❄️ I will do SDE internship in Snowflake in 2022 summer. 
 * 🏫 I get my bachelor degree from Computer Science Department, TongJi University.
