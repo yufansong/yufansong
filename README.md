@@ -9,7 +9,7 @@
 
 ### Languages:
 
-C/C++, Golang, Java Python
+C/C++, Golang, Java, Python
 
 ### Technologies:
 
