@@ -1,6 +1,6 @@
-## Hi there, I'm Yufan Song 👋 I'm a Software Developer!
+## Hi there, I'm Yufan Song 👋 I'm looking for a Software Developer New Grad Job!
 
-* ❄️ Will do SDE internship in Snowflake in 2022 summer. 
+* ❄️ Do SDE internship in Snowflake in 2022 summer. 
 * 📚 Study at Master of Computational Data Science, Carnegie Mellon University
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
 * 🔬 Did research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year.
