@@ -1,6 +1,6 @@
 ## Hi there, I'm Yufan Song 👋
 
-* A Cloud Database Engineer at RisingWave Labs.
+* 🌊 A Cloud Database Engineer at RisingWave Labs.
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
