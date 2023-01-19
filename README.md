@@ -1,7 +1,8 @@
-## Hi there, I'm Yufan Song 👋 I'm looking for a Software Developer New Grad Job!
+## Hi there, I'm Yufan Song 👋
 
-* ❄️ Do SDE internship in Snowflake in 2022 summer. 
-* 📚 Study at Master of Computational Data Science, Carnegie Mellon University
+* A Cloud Database Engineer at RisingWave Labs.
+* 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
+* ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
 * 🔬 Did research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year.
 * 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
@@ -13,7 +14,7 @@ C/C++, Golang, Java, Python
 
 ### Technologies:
 
-* **BackEnd Technologies**: MySQL, Redis, ElasticSearch, HDFS, AWS, Git, NGINX
+* **BackEnd Technologies**: Database, Cloud, MySQL, Redis, ElasticSearch, HDFS, AWS, Git, NGINX
 * **AI Technologies**: Multi-Modality, Data Mining, Cluster
 
 ### Projects
