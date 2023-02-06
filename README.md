@@ -3,9 +3,9 @@
 * 🌊 A Cloud Database Engineer at RisingWave Labs.
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
+* * 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
 * 🔬 Did research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year.
-* 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
 
 
 ### Languages:
