@@ -7,6 +7,7 @@
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
 * 🔬 Did research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year. -->
 
+<!-- SDE @risingwavelabs | Ex-SDE intern @snowflakedb | MCDS @CMU  | Ex-SDE @bytedance -->
 
 <!-- ### Languages:
 
