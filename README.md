@@ -1,4 +1,4 @@
-<!-- ## Hi there, I'm Yufan Song 👋 -->
+## Hi there, I'm Yufan Song 👋 -->
 <!-- 
 * 🌊 A Cloud Database Engineer at RisingWave Labs.
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
@@ -30,4 +30,4 @@ C/C++, Golang, Java, Python
 <a href="https://www.linkedin.com/in/yufansong/">
   <img align="left" alt="yufansong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
- -->
+
