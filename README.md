@@ -1,15 +1,15 @@
-## Hi there, I'm Yufan Song 👋 -->
-<!-- 
+## Hi there, I'm Yufan Song 👋
+
 * 🌊 A Cloud Database Engineer at RisingWave Labs.
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
 * 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
-* 🔬 Did research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year. -->
+* 🔬 Did research as visiting student at Brandis University advised by Prof. Hongfu Liu for half a year.
 
-<!-- SDE @risingwavelabs | Ex-SDE intern @snowflakedb | MCDS @CMU  | Ex-SDE @bytedance -->
+SDE @risingwavelabs | Ex-SDE intern @snowflakedb | MCDS @CMU  | Ex-SDE @bytedance
 
-<!-- ### Languages:
+### Languages:
 
 C/C++, Golang, Java, Python
 
