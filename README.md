@@ -11,7 +11,7 @@ SDE @risingwavelabs | Ex-SDE intern @snowflakedb | MCDS @CMU  | Ex-SDE @bytedanc
 
 ### Languages:
 
-C/C++, Golang, Java, Python
+Rust, C/C++, Golang, Java, Python
 
 ### Technologies:
 
