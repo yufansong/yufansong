@@ -20,7 +20,7 @@ Rust, C/C++, Golang, Java, Python
 
 ### Projects
 
-![Yufan's github stats](https://github-readme-stats.vercel.app/api?username=yufansong&count_private=true&show_icons=true)
+<!--  ![Yufan's github stats](https://github-readme-stats.vercel.app/api?username=yufansong&count_private=true&show_icons=true)  -->
 
 ![Yufan's github stats](https://github-profile-trophy.vercel.app/?username=yufansong)
 
