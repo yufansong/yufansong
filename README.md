@@ -1,6 +1,6 @@
 ## Hi there, I'm Yufan Song 👋
 
-* 🤖️ One of the maintainer of [Opendevin](https://github.com/OpenDevin/OpenDevin)
+* 🤖️ Core maintainer of [Opendevin](https://github.com/OpenDevin/OpenDevin)
 * 🌊 A Cloud Database Engineer at RisingWave Labs.
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
