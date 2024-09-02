@@ -1,7 +1,7 @@
 ## Hi there, I'm Yufan Song 👋
 
 * 🌊 A Cloud Database Engineer at RisingWave Labs.
-* 🤖️ One of the maintainer of [Opendevin](https://github.com/OpenDevin/OpenDevin)
+* 🤖️ Core maintainer of [Opendevin](https://github.com/All-Hands-AI/OpenHands)
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
 * 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
@@ -17,9 +17,15 @@ Rust, C/C++, Golang, Java, Python
 ### Technologies:
 
 * **BackEnd Technologies**: Database, Cloud, MySQL, Redis, ElasticSearch, HDFS, AWS, Git, NGINX
-* **AI Technologies**: Multi-Modality, Data Mining, Cluster
+* **AI Technologies**: Agent, Multi-Modality, Data Mining, Cluster
 
 ### Projects
+<p align="center">
+  <a href="https://trendshift.io/repositories/8648">
+    <img src="https://trendshift.io/api/badge/repositories/8648" alt="GitHub Trend" style="display: block; margin: auto;">
+  </a>
+</p>
+
 
 <!--  ![Yufan's github stats](https://github-readme-stats.vercel.app/api?username=yufansong&count_private=true&show_icons=true)  -->
 
