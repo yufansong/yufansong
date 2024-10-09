@@ -19,6 +19,9 @@ Rust, C/C++, Golang, Java, Python
 * **BackEnd Technologies**: Database, Cloud, MySQL, Redis, ElasticSearch, HDFS, AWS, Git, NGINX
 * **AI Technologies**: Agent, Multi-Modality, Data Mining, Cluster
 
+### Service
+* PC Member / Reviewer: NeurIPS 2024 Workshop MATH-AI, AAAI 25 Undergraduate Consortium
+
 ### Projects
 <p align="center">
   <a href="https://trendshift.io/repositories/8648">
