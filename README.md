@@ -1,6 +1,6 @@
 ## Hi there, I'm Yufan Song 👋
 
-* 🌊 A Cloud Database Engineer at RisingWave Labs.
+* 🌊 A Software Engineer at RisingWave Labs.
 * 🤖️ Core maintainer of [Opendevin](https://github.com/All-Hands-AI/OpenHands).
 * 🔬 A research assistant on LLM at Carnegie Mellon University LTI SCS, advised by Prof. [Graham Neubig](https://www.phontron.com/).
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
