@@ -1,27 +1,23 @@
 ## Hi there, I'm Yufan Song 👋
 
-* 🌊 A Software Engineer at RisingWave Labs.
+* 🎶 A Software Engineer at ByteDance Seed Foundation LLM System.
+* 🌊 A Software Engineer at RisingWave Labs on Cloud and Database kernel for 2 years 2023.1-2025.2.
 * 🔬 A research assistant on LLM at Carnegie Mellon University LTI SCS, advised by Prof. [Graham Neubig](https://www.phontron.com/).
 * 🤖️ Core maintainer of [Opendevin](https://github.com/All-Hands-AI/OpenHands).
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
-* 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year.
+* 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year 2020.10-2021.8.
 * 🏫 Got my bachelor degree from Computer Science Department, TongJi University.
 * 🔬 Did research on Multi-Modality + RL as visiting student at Brandis University advised by Prof. [Hongfu Liu](https://hongfuliu.com/) for half a year.
 
-SDE @risingwavelabs | Ex-SDE intern @snowflakedb | MCDS @CMU  | Ex-SDE @bytedance AI Lab CV
+SDE ByteDance Seed(Doubao) | Ex-SDE @risingwavelabs | Intern @snowflakedb | MCDS @CMU  | Ex-SDE @bytedance AI Lab CV
 
 ### Languages:
 
 Rust, C/C++, Golang, Python 
 
-### Technologies:
-
-* **BackEnd Technologies**: Database, Cloud, MySQL, Redis, ElasticSearch, HDFS, AWS, Git, NGINX
-* **AI Technologies**: LLM Agent, LLM Infra
-
 ### Service
-* PC Member / Reviewer: NeurIPS 2024 Workshop MATH-AI, AAAI 25 Undergraduate Consortium
+* PC Member / Reviewer: ICLR 2025 Workshop DL4C, FM-Wild, XAI4Science, NeurIPS 2024 Workshop MATH-AI, AAAI 25 Undergraduate Consortium
 
 ### Projects
 <p align="center">
