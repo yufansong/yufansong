@@ -1,9 +1,9 @@
 ## Hi there, I'm Yufan Song 👋
 
 * 🎶 A Software Engineer at ByteDance Seed Foundation LLM System.
-* 🌊 A Software Engineer at RisingWave Labs on Cloud and Database kernel for 2 years 2023.1-2025.2.
-* 🔬 A research assistant on LLM at Carnegie Mellon University LTI SCS, advised by Prof. [Graham Neubig](https://www.phontron.com/).
 * 🤖️ Core maintainer of [Opendevin](https://github.com/All-Hands-AI/OpenHands).
+* 🔬 A research assistant on LLM at Carnegie Mellon University LTI SCS, advised by Prof. [Graham Neubig](https://www.phontron.com/).
+* 🌊 A Software Engineer at RisingWave Labs on Cloud and Database kernel for 2 years 2023.1-2025.2.
 * 🎓 Graduate at Master of Computational Data Science, Carnegie Mellon University.
 * ❄️ Do SDE(Database engineering) internship in Snowflake in 2022 summer. 
 * 🎶 Worked at Bytedance as FTE Backend Engineer at Bytedance AiLab CV for 1 year 2020.10-2021.8.
