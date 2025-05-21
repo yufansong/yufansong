@@ -17,7 +17,7 @@ SDE ByteDance Seed(Doubao) | Ex-SDE @risingwavelabs | Intern @snowflakedb | MCDS
 Rust, C/C++, Golang, Python 
 
 ### Service
-* PC Member / Reviewer: ICLR 2025 Workshop DL4C, FM-Wild, XAI4Science, NeurIPS 2024 Workshop MATH-AI, AAAI 25 Undergraduate Consortium
+* PC Member / Reviewer: ICML 2025 Workshop Computer Use Agent, ICLR 2025 Workshop DL4C, FM-Wild, XAI4Science, NeurIPS 2024 Workshop MATH-AI, AAAI 25 Undergraduate Consortium
 
 ### Projects
 <p align="center">
